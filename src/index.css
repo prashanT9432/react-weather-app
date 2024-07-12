@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url(https://weatherstack.com/site_images/mountains.svg),
+  linear-gradient(135deg, #1f4e69 0, #164058 100%);
+  background-size: cover;
+  /* background-position: center; */
 }
 
 code {

@@ -1,3 +1,12 @@
+# React Weather Channel and Forecast App
+
+A weather app, which will show the current weather for your current location. (location permission is needed for this.)
+
+● if location permission is given, then get the current location.
+● if location permission is not given, then ask the user to provide the location.
+● App have an option to choose different locations also, other than the current location.
+● For the data, I have utilize the APIs available on https://www.weatherapi.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
