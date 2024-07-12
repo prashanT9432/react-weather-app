@@ -10,6 +10,8 @@ A weather app, which will show the current weather for your current location. (l
 
 ● For the data, I have utilize the APIs available on https://www.weatherapi.com/
 
+Hosted Website Link : - https://react-weather-app-puce-pi.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
