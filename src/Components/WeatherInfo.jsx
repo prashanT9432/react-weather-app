@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import "../App.css";
 export default function WeatherInfo() {
   const [data, setData] = useState({});
-  const [location, setLocation] = useState();
+  const [location, setLocation] = useState('new delhi');
   const [message, setMessage] = useState(
     `⚠️Please allow location access to obtain the weather information. Or location can also be searched manually.`
   );
