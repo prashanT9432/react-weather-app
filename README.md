@@ -1,5 +1,7 @@
 # React Weather Channel and Forecast App
 
+Hosted Website Link : - https://react-weather-app-puce-pi.vercel.app/
+
 A weather app, which will show the current weather for your current location. (location permission is needed for this.)
 
 ● if location permission is given, then get the current location.
@@ -10,7 +12,7 @@ A weather app, which will show the current weather for your current location. (l
 
 ● For the data, I have utilize the APIs available on https://www.weatherapi.com/
 
-Hosted Website Link : - https://react-weather-app-puce-pi.vercel.app/
+
 
 # Getting Started with Create React App
 
